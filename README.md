@@ -8,7 +8,7 @@ This repository contains the complete network design and implementation for Tech
 
 The following diagram illustrates the implemented network architecture, including the internal departmental VLANs, the DMZ, the external branch, and the security boundaries.
 
-![Network Topology Diagram](image_192b39.png)
+![Network Topology Diagram](topology.png)
 
 ---
 
@@ -17,7 +17,7 @@ The following diagram illustrates the implemented network architecture, includin
 For a detailed breakdown of the network design, configurations, and security policies, please see the project files:
 
 - **[Report.pdf](Report.pdf)**: A comprehensive report detailing the network topology, IP addressing, VLAN configuration, security measures, and verification steps.
-- **[Main.pkt](Main.pkt)**: The Cisco Packet Tracer file containing the complete, operational network topology.
+- **[Main.pkt](Network.pkt)**: The Cisco Packet Tracer file containing the complete, operational network topology.
 
 ---
 
